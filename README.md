@@ -1,3 +1,5 @@
 # Astar
 mazesolving alg - Astar 
-joujoujou
+maze solving algorithm
+Dijkstra, Astar
+
